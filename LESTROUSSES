@@ -1,0 +1,167 @@
+
+<html>
+
+	<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="style.css" />
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+
+	<h1 id="haut de page"> Nuit de l'info 2018 </h1>
+	</head>
+
+
+	<nav>
+		<ul>
+				</li><li>
+				</li><li>
+					<a href= "acceuil.html"><span>Acceuil</span></a>
+				</li><li>
+				</li><li>
+					<a href= "epreuve.html"><span>Epreuve n°1</span></a>
+				</li><li>
+				</li><li>
+					<a href= "epreuve1.html"><span>Epreuve n°2</span></a>
+				</li><li>
+				</li><li>
+					<a href= "epreuve3.html"><span>Epreuve n°3</span></a></li>
+		</ul>
+	</nav>
+					
+
+
+	<section1>
+	<p id="texteinvisible"></p>
+
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/fortnite.jpg" alt="" title="" id="wows1_0"/></li>
+		<li><img src="data1/images/info.jpg" alt="" title="" id="wows1_1"/></li>
+		<li><a href="http://wowslider.net"><img src="data1/images/2.jpg" alt="bootstrap slideshow" title="" id="wows1_2"/></a></li>
+		<li><img src="data1/images/oulama.jpg" alt="" title="" id="wows1_3"/></li>
+		</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title=""><span><img src="data1/tooltips/fortnite.jpg" alt=""/>1</span></a>
+		<a href="#" title=""><span><img src="data1/tooltips/info.jpg" alt=""/>2</span></a>
+		<a href="#" title=""><span><img src="data1/tooltips/2.jpg" alt=""/>3</span></a>
+		<a href="#" title=""><span><img src="data1/tooltips/oulama.jpg" alt=""/>4</span></a>
+	</div></div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	</section1>
+
+	<section2>
+	<article>
+    	    <span class="Intro">
+        	<p>Depuis le couché du Soleil un événement imprévu est venu bouleverser des milliers de joueurs de Fortnite !!!!!!</p>
+    	</article>
+    	<article>
+        	<span class="Intro2">
+            	<p>Le Lama à disparu des cartes ... </p>
+    	</article>
+	</section2>
+
+	<section3>    
+    <aside>
+        <p class="image">
+            <img class="image" src="images/lamal.png" alt="Norway" style="width:90%"/>
+        </p>
+    </aside>
+
+    <article>
+        <span class="Intro">
+            <p>Votre objectif est de le retrouver aux plus vite. Quelques informations sont parvenus jusqu'à nous... Trois défis vous sont présentés, testés les pour rétablir le jeux !  </p>
+    </article>
+
+    <article>
+        <span class="Intro2">
+            <p>N'oubliez pas, lisez bien tous et méfiez-vous de tous</p>
+            <p class="texteinvisible1"> Sélection des cafés </p>
+    </article>
+</section3>
+
+<section3>
+    <aside>
+        <p>
+            <img src="images/maison.png"  style="width:34%" class="Vitre" id="Vitre"/>
+        </p>
+
+        <p>
+            <img src="images/école.png" style="width:34%" class="Eglise"/>
+        </p>
+    </aside>
+
+   <div class="textegauche" style="width:34%">
+        <p>
+                <p class="texteinvisible2"> Sélection des cafés </br></p>
+                <p class="texte1">Defis n°1</p>
+                <p class="texte3">Une petite enigme</p>
+                <p class="texte2">À travers la première énigme vous pourrez trouver le lama dans une maison. En effet, nos indices nous laissent penser qu'il s'est refugié chez des habitants</p>
+        </p>
+</div>
+
+    <div class="textedroite" style="width:34%">
+    <p>
+            <p class="texteinvisible2"> Sélection des cafés </br></p>
+            <p class="texte1">Défis n°2</p>
+            <p class="texte3">Retour élémentaire</p>
+            <p class="texte2">Rien de tel qu'un retour en enfance pour tenter de trouver le lama. D'autre sources nous informent qu'il est caché dans le site. Bizzard non ? </p>
+   </p>
+</div>
+</section3>
+<p class="alignement" style="width:34%"> je joue a cache cache </p>
+<section3>
+    <aside>
+        <p>
+            <img src="images/tete.png"  style="width:34%" class="Vitre" id="Vitre"/>
+        </p>
+
+        <p>
+            <img src="images/am.png" style="width:34%" class="Eglise"/>
+        </p>
+    </aside>
+        <p class="alignement2" style="width:34%"> je joue à cache-cache </p>
+   <div class="textegauche" style="width:34%">
+        <p>
+                <p class="texteinvisible2"> Sélection des cafés </br></p>
+                <p class="texte1">Defis n°3</p>
+                <p class="texte3">Qui suis-je ?</p>
+                <p class="texte2">Vous me cherchez et peut-être m'avez vous trouvé. En revanche il vous faut en connaître un peu plus sur moi...
+</div>
+
+    <div class="textedroite" style="width:34%">
+    <p>
+            <p class="texteinvisible2"> Sélection des cafés </br></p>
+            <p class="texte1">Défis n°4</p>
+            <p class="texte3">Resoudre le mystère</p>
+            <p class="texte2">Vous avez désormais toute les clefs en main pour me trouver... Le jeu va bientôt pouvoir reprendre.</p>
+   </p>
+</div>
+</section3>
+
+<foot>
+
+    <p class="alignement" style="width:34%"> je joue à cache-cache </p>
+
+    <section>
+        <img src="images/fond.jpeg" alt="Vitre" style="width:85%" class="fond"/>
+        <p class="alignement2" style="width:34%"> je joue à cache-cache </p>
+        <p>
+            <a class="fond" href="#haut de page" title="Bonne visite">Haut de page</a>
+            <a class="fondbis">las</a>
+            <a class="fond" href="defis4.html" title=" Qui ?!">Me contacter</a>
+            <a class="fondbis">las</a>
+            <a class="fond" href="https://www.nuitdelinfo.com/" title="Plus d'info">Nuit de l'Info</a>
+        </p>
+
+
+
+    <p class="alignement2" style="width:34%"> je joue à cache-cache </p>
+
+    <p class="fin"> copyright ©2018 Nuit de l'Info 2018 ESIEA IUT TROUSSES </p>
+
+</foot>
+
+</html>
